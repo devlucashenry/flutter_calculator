@@ -6,7 +6,7 @@ Um projeto simples de calculadora desenvolvido para Mobile com framework Flutter
 
 ## 🚀 Funcionalidades
 * Operações matemáticas básicas.
-* **Histórico de cálculos**: Navegação para uma segunda tela usando `Navigator.push`.
+* **Histórico de cálculos**.
 
 ## 🛠️ Tecnologias Utilizadas
 * [Flutter](https://flutter.dev) - Framework UI.
