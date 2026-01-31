@@ -1,16 +1,20 @@
-# calculator
+# Calculadora Flutter 🧮
 
-A new Flutter project.
+Um projeto simples de calculadora desenvolvido para Mobile com framework Flutter e linguagem de programação Dart para praticar conceitos iniciais.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Funcionalidades
+* Operações matemáticas básicas.
+* **Histórico de cálculos**: Navegação para uma segunda tela usando `Navigator.push`.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tecnologias Utilizadas
+* [Flutter](https://flutter.dev) - Framework UI.
+* [Dart](https://dart.dev) - Linguagem de programação.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🏁 Como Rodar o Projeto
+1. Certifique-se de ter o Flutter instalado.
+2. Clone o repositório:
+   ```bash
+   git clone https://github.com/devlucashenry/flutter_calculator.git
